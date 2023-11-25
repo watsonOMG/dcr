@@ -11,7 +11,7 @@ Puede iniciar su ambiente dandole click al botón a continuación, sin embargo, 
 3. Una vez creado el repoositorio, edite el archivo README para cambiar la URL del botón "Abrir en Gitpod" que se encuentra a continuación. La URL actual corresponde al autor de este repositorio, debe cambiar el nombre de usuario y de repositorio para que apunte al nuevo repositorio. Una vez realizados los cambios, guarde el archivo dando click al botón "Commit changes".
 4. De click al botón "Abrir en Gitpod" a continuación.
 
-[![Abrir en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/dharizza/drupalcampcr-23)
+[![Abrir en Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/watsonOMG/dcr)
 
 ## Iniciar su propio proyecto
 
